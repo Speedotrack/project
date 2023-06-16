@@ -6,7 +6,7 @@ import Login from './Login';
 import Map from './Map';
 
 const App = () => {
-  const [loggedIn, setLoggedIn] = useState(true);
+  const [loggedIn, setLoggedIn] = useState(false);
 
   const handleLogin = () => {
     // Perform login logic and set loggedIn to true upon successful login
