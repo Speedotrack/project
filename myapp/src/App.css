@@ -1,0 +1,177 @@
+.login-container{
+      
+    margin-top:50px;
+    margin-left:35%;
+    width: 30%;
+    border: 1px solid black;
+    padding:60px;
+   
+}
+.small mb-5 pb-lg-2{
+
+    color:black;
+    text-align:center;
+}
+.logo img{
+    width:50%;
+    margin-left:23%;
+    margin-bottom:10%;
+
+}
+.mb-0{
+    margin-left:29%;
+    margin-top:5%;
+    
+}
+.form-control{
+    padding:15px;
+    border-radius: 0%;
+}
+.btn{
+    background-color:rgba(37, 144, 233, 0.841);
+    width:100%;
+    border-radius: 0px;
+    padding:10px;
+}
+.btn:hover{
+    background-color:rgba(7, 110, 195, 0.841);
+
+}
+
+.svg img {
+    margin-left: 10px;
+    
+}
+.menu ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin-top:18px;
+    /* margin-left:18px; */
+    background-color: #f1f1f1;
+  }
+  
+  .menu li {
+    margin-right: 10px;
+    margin-left:18px;
+    padding:5px;
+    font-size: small;
+    margin:5px;
+  }
+  .active, .menu li :hover {
+    background-color: #666;
+    color: white;
+  }
+  .menu li:hover {
+    background-color: #666;
+    color: white;
+  }
+  
+  .menu .active {
+    background-color: #666;
+    color: white;
+  }
+  .search{
+    margin:5px;
+    
+
+  }
+  .search button{
+    background: #f1f1f1;
+    border-color: #f1f1f1;
+    border: 1px solid black;
+
+  }
+  .svg img:hover{
+    background-color: #f3e1e1;
+    color: white;
+  }
+  .search img{
+    /* background-color: #f1f1f1; */
+    width: 20px;
+    padding:0%;
+  }
+  .obj img{
+    background-color: #f1f1f1; 
+    width: 20px;
+    padding:0%;
+  }
+  .field{
+    border:0px;
+    text-align:center;
+    background-color: #f1f1f1;
+    width:12.3%;
+  }
+  .type{
+    margin:5px;
+    margin-top:15px;
+  }
+  .lab{
+    margin-left: 9.1%;
+    font-size:12px;
+    margin-bottom: 18px;;
+  }
+  .car{
+    margin-top:-25px;
+    margin-bottom:15px;
+  }
+  hr{
+    width:16.5%;
+    margin-top:-2px;
+  }
+  .car img{
+    margin-left: -2px;
+width:15px;
+  }
+  .eng iconStyle{
+    margin-left: 10%;
+    font-size:12px;
+  }
+  /* .car-1{
+margin-top:7px;
+  }  */
+
+  /* .svg{
+    background-color:#f1f1f1 ;
+  } */
+  /* .map-image img{
+    width:100%;
+    height:800px;
+    margin-left:17%;
+    margin-top:-17.6%;
+    
+  } */
+  .logo-speed{
+    width:20%;
+    margin-left:40%;
+    margin-top:10%;
+  }
+  .spinner-border{
+       margin-left:49%;
+       margin-top:30px;
+  }
+
+  .App {
+    height: 100vh;
+    
+  }
+  
+  .map-container {
+    height: 100%;
+    width: 100%;
+  }
+  @media (min-width: 768px) {
+    .map-container {
+      height: 600px;
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    .map-container {
+      height: 800px;
+    }
+  }
+
+  .replace{
+    width:100%;
+  }
